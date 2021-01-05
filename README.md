@@ -1,7 +1,7 @@
 # 👾RIKKA~CHAN BOT👾
 BOT WHATSAPP TERMUX ONLY BY XP-TN
 <p align="center">
-<img src = "https://avatars3.githubusercontent.com/u/49530313?s=460&u=086c7b0d17c5b8e906200d810e88587f5c98e349&v=4" width="320">
+<img src = "https://www.pinterest.pt/pin/660903314048536333/?amp_client_id=CLIENT_ID%28_%29&mweb_unauth_id=%7B%7Bdefault.session%7D%7D&amp_url=https%3A%2F%2Fwww.pinterest.pt%2Famp%2Fpin%2F660903314048536333%2F&open_share=t" width="320">
 </p>
 <p align="center">
 <a href="#"><img title="👾RIKKA~CHAN BOT👾" src="https://img.shields.io/badge/RIKKA~CHAN BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
