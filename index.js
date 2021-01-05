@@ -216,13 +216,13 @@ else if (text == 'Cuy'){
 conn.sendMessage(id, 'Ya?, Ketik .help/.info/.donasi Contoh #help' ,MessageType.text);
 }
 else if (text == '.frendsowner'){
-conn.sendMessage(id, 'SUM Add Sum asik dia wa.me/+628557231695' ,MessageType.text);
+conn.sendMessage(id, 'HAKIM Add Hakim asik dia wa.me/+62 812-2318-4652' ,MessageType.text);
 }
 else if (text == '.coowner'){
-conn.sendMessage(id, 'PUTRA add Putra wa.me/+6289625176924' ,MessageType.text);
+conn.sendMessage(id, 'NOVAN add Novan wa.me/+6289504242949' ,MessageType.text);
 }
 else if (text == '.groupbot'){
-conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/IKmRs4a36fIAyn7X16jpwL' ,MessageType.text);
+conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/FjTXj4ddBue0Vr2G6Bq41P' ,MessageType.text);
 }
 else if (text == '.tools1'){
 conn.sendMessage(id, ' *Menampilkan Fitur tools1!!!* ' ,MessageType.text);
