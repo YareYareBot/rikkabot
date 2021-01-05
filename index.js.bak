@@ -4,7 +4,7 @@
 * jangan ubah semuanya kecuali nama bot instagram yt itu ajah yg lain jangan!!!
 * hargai pembuat skrip woy!!!
 */
-const XPTN = '👾RIKKA~CHAN BOT👾'; // Nama Bot Whatsapp
+const YareYare = '👾RIKKA~CHAN BOT👾'; // Nama Bot Whatsapp
 const instagram = 'https://instagram.com/ytkangcilok'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6289504242949'; // Nomor whatsapplu cok
 const aktif = 'Tergantung Mood'; // Kapan bot lu aktif
@@ -1720,7 +1720,7 @@ if (text.includes(".alay")){
 	})
 }
 
-//Tolonglah bro jangan di ubah ubah XP-TN
+//Tolonglah bro jangan di ubah ubah YareYareBot
 
 
 })
