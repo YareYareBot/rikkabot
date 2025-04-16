@@ -147,10 +147,10 @@ else if (text == 'Asu'){
 conn.sendMessage(id, 'Lu Asw' ,MessageType.text);
 }
 else if (text == '.owner'){
-conn.sendMessage(id, 'Owner NOVAN wa.me/+6289504242949' ,MessageType.text);
+conn.sendMessage(id, 'Owner Kilian wa.me/+6289504242949' ,MessageType.text);
 }
-else if (text == 'Novan'){
-conn.sendMessage(id, 'Aku BOT nya Kak Novan' ,MessageType.text);
+else if (text == 'Kilian'){
+conn.sendMessage(id, 'Aku BOT nya Kak Kilian' ,MessageType.text);
 }
 else if (text == 'Chichi'){
 conn.sendMessage(id, 'pacar owner ihh' ,MessageType.text);
@@ -219,7 +219,7 @@ else if (text == '.frendsowner'){
 conn.sendMessage(id, 'HAKIM Add Hakim asik dia wa.me/+62 812-2318-4652' ,MessageType.text);
 }
 else if (text == '.coowner'){
-conn.sendMessage(id, 'NOVAN add Novan wa.me/+6289504242949' ,MessageType.text);
+conn.sendMessage(id, 'Kilian add Kilian wa.me/+6289504242949' ,MessageType.text);
 }
 else if (text == '.groupbot'){
 conn.sendMessage(id, 'group bot whatsapp https://chat.whatsapp.com/FjTXj4ddBue0Vr2G6Bq41P' ,MessageType.text);
