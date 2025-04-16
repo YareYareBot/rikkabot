@@ -5,11 +5,11 @@
 * hargai pembuat skrip woy!!!
 */
 const YareYare = 'RIKKA~CHAN BOT'; // Nama Bot Whatsapp
-const instagram = 'https://instagram.com/ytkangcilok'; // Nama Instagramlu cok
+const instagram = '-'; // Nama Instagramlu cok
 const nomer = 'https://Wa.me/+6289504242949'; // Nomor whatsapplu cok
 const aktif = 'Tergantung Mood'; // Kapan bot lu aktif
 const groupwa = 'Not'; // OFFICIAL GRUP LU 1
-const youtube = 'https://youtube.com/c/KangCilok'; // OFFICIAL GRUP LU 2
+const youtube = 'https://www.youtube.com/@KilianoLIVE_EN6'; // OFFICIAL GRUP LU 2
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
